@@ -8,7 +8,7 @@ This is a simple IOS app that allows the user to input information to introduce 
 
 
 
-<img src="https://i.imgur.com/RlAv2OQ.gif" width=200><br> 
+<img src='./assets/prework.gif' title='walkthrough' width=200><br> 
 
 
 ### Required Features
