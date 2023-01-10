@@ -4,7 +4,7 @@
 
 This is a simple IOS app that allows the user to input information to introduce themselves. They can input their name, current school, current level of education and the number of pets they own.
 
-### App Walk-though
+### App Walk-through
 
 
 
