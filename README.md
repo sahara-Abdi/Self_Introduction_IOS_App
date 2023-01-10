@@ -10,7 +10,6 @@ This is a simple IOS app that allows the user to input information to introduce 
 
 <img src="https://i.imgur.com/RlAv2OQ.gif" width=200><br> 
 
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required Features
 
